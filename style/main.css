@@ -1,0 +1,34 @@
+/*--------------------------GENERAL-------------------------*/
+
+body{
+	font-family: corbel,sans-serif;
+}
+
+*{
+	text-decoration: none;
+}
+
+/*--------------------------HEADER-------------------------*/
+
+h1{
+	color:#cc0000;
+	font-family: 'Freestyle script',sans-serif;
+	font-size: 36px;
+	letter-spacing: 3px;
+	padding: 0px 15px 0px 10px;
+	border: 2px solid #000099;
+	width: 500px;
+	margin: 0px auto;
+	text-align: center;
+}
+
+.img-centrata {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+/*--------------------------CONTENT-------------------------*/
+
+#content ol{
+	text-transform: uppercase;
+}
